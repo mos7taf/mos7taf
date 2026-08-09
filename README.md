@@ -33,7 +33,7 @@ I am a passionate Computer Science student at the Faculty of Computers, focused 
 ---
 
 ### 📬 Connect with me:
-- **LinkedIn:** [https://www.linkedin.com/in/mostafa-elneny-868179346?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **LinkedIn:** [www.linkedin.com/in/mostafa-el-neny-868179346]
 - **Email:** [mostafaelnine@gmail.com]
 
 ---
