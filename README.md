@@ -52,6 +52,6 @@ Python scripts using Netmiko to automate connections to and configuration of net
 
 ---
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mos7taf&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mos7taf&layout=compact&theme=dark&hide_border=true)
+![Mostafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=mos7taf&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mos7taf&layout=compact&theme=dark&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=mos7taf&color=blue&style=flat)
