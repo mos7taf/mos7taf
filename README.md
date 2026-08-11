@@ -42,3 +42,9 @@ Python scripts using Netmiko to automate connections to and configuration of net
 - 🪟 Building **Windows Server** administration skills alongside Linux
 - 🌐 Revisiting **CCNA** with time-pressured, mixed-scenario labs
 - ☁️ Exploring **Cloud Computing** fundamentals and **CI/CD**
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-el-neny-868179346)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mos7taf)
